@@ -1,0 +1,10 @@
+streamlit
+opencv-python-headless
+face_recognition
+dlib
+numpy
+gspread
+google-auth
+streamlit-webrtc
+streamlit-autorefresh
+av
